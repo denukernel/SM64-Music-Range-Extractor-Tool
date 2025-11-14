@@ -1,3 +1,5 @@
+<img width="780" height="380" alt="image" src="https://github.com/user-attachments/assets/4d70c2a5-d983-4773-81e7-62becd221ed7" />
+
 # SM64 Music Range Extractor Tool
 
 A lightweight Java tool that scans a Super Mario 64 ROM and extracts the
